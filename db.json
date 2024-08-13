@@ -1,74 +1,144 @@
-[
+{
+  "transactions": [
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg/400px-2015_Mazda_MX-5_ND_2.0_SKYACTIV-G_160_i-ELOOP_Rubinrot-Metallic_Vorderansicht.jpg",
-        "title": "Mazda MX-5",
-        "start_production": 1989,
-        "class": "Sports car Roadster"
+      "id": 1,
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VW_Kuebelwagen_1.jpg/400px-VW_Kuebelwagen_1.jpg",
-        "title": "Volkswagen Kübelwagen",
-        "class": "Military vehicle"
+      "id": 2,
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg/400px-2014_Porsche_Cayenne_%2892A_MY14%29_GTS_wagon_%282015-08-07%29_01.jpg",
-        "title": "Porsche Cayenne",
-        "start_production": 2002,
-        "class": "Mid-size luxury crossover SUV"
+      "id": 3,
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vintage_car_at_the_Wirral_Bus_%26_Tram_Show_-_DSC03336.JPG/400px-Vintage_car_at_the_Wirral_Bus_%26_Tram_Show_-_DSC03336.JPG",
-        "title": "Vauxhall Chevette",
-        "start_production": 1975,
-        "class": "Supermini"
+      "id": 4,
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg/400px-Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg",
-        "title": "Dymaxion car",
-        "start_production": 1933,
-        "class": "Concept car"
+      "id": 5,
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ford_Crown_Victoria_LX.jpg/400px-Ford_Crown_Victoria_LX.jpg",
-        "title": "Ford Crown Victoria",
-        "start_production": 1955,
-        "class": "Full-size Ford"
+      "id": 6,
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Plymouth_Superbird.jpg/400px-Plymouth_Superbird.jpg",
-        "title": "Plymouth Superbird",
-        "start_production": 1970,
-        "class": "Muscle car(today) and Race car(Past)"
+      "id": 7,
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2nd-Saab-9000-hatch.jpg/400px-2nd-Saab-9000-hatch.jpg",
-        "title": "Saab 9000",
-        "start_production": 1984,
-        "class": "Executive car"
+      "id": 8,
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2003-2005_Pontiac_Sunfire.jpg/400px-2003-2005_Pontiac_Sunfire.jpg",
-        "title": "Pontiac Sunfire",
-        "start_production": 1994,
-        "class": "Compact"
+      "id": 9,
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/1971_AMC_Javelin_SST_red_Kenosha_street.JPG/400px-1971_AMC_Javelin_SST_red_Kenosha_street.JPG",
-        "title": "AMC Javelin",
-        "start_production": 1967,
-        "class": "{{Unbulleted list| Pony car | Muscle car },},"
+      "id": 10,
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jaguar_X-Type_Estate_front_20080731.jpg/400px-Jaguar_X-Type_Estate_front_20080731.jpg",
-        "title": "Jaguar X-Type",
-        "start_production": 2001,
-        "class": "Compact executive car"
+      "id": 11,
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
     },
     {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VW_Phaton_%282._Facelift%29_%E2%80%93_Frontansicht%2C_7._Mai_2011%2C_D%C3%BCsseldorf.jpg/400px-VW_Phaton_%282._Facelift%29_%E2%80%93_Frontansicht%2C_7._Mai_2011%2C_D%C3%BCsseldorf.jpg",
-        "title": "Volkswagen Phaeton",
-        "start_production": 2002,
-        "class": "Full-size luxury car"
+      "id": 12,
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 13
+    },
+    {
+      "date": "2024-05-15",
+      "description": "jordan4",
+      "category": "fashion ",
+      "amount": "3000",
+      "id": 14
+    },
+    {
+      "date": "2024-05-15",
+      "description": "jordan4",
+      "category": "fashion ",
+      "amount": "3000",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 16
+    },
+    {
+      "date": "2024-05-17",
+      "description": "rent payment",
+      "category": "housing",
+      "amount": "15000",
+      "id": 17
+    },
+    {
+      "date": "2024-05-17",
+      "description": "rent payment",
+      "category": "housing",
+      "amount": "15000",
+      "id": 18
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 19
+    },
+    {
+      "date": "2024-05-23",
+      "description": "cargo",
+      "category": "fashion ",
+      "amount": "1400",
+      "id": 20
     }
-]    
-    
+  ]
+}
